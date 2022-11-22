@@ -65,7 +65,7 @@
       "imageUrl": "https://dummyimage.com/100x100/6b6b6b/ffffff.png"
     },
     {
-      "categoryId": "4",
+      "categoryId": 4,
       "name": "Gömlek",
       "price": 50,
       "imageUrl": "https://dummyimage.com/100x100/ff1717/ffff05.png",
@@ -73,7 +73,7 @@
       "id": 9
     },
     {
-      "categoryId": "4",
+      "categoryId": 4,
       "name": "Kazak",
       "price": 65,
       "imageUrl": "https://dummyimage.com/100x100/ff1717/ffff05.png",
@@ -81,7 +81,7 @@
       "id": 10
     },
     {
-      "categoryId": "6",
+      "categoryId": 6,
       "name": "Citroen",
       "price": 65000,
       "imageUrl": "https://dummyimage.com/100x100/ffe419/ff0505.png&text=Citroen",
@@ -89,7 +89,7 @@
       "id": 11
     },
     {
-      "categoryId": "5",
+      "categoryId": 5,
       "name": "Test",
       "price": 50,
       "imageUrl": "https://dummyimage.com/100x100/ff1717/ffff05.png",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Test 2",
-      "categoryId": "5",
+      "categoryId": 5,
       "price": 60,
       "imageUrl": "https://dummyimage.com/100x100/ff1717/ffff05.png",
       "description": "test açıklama",
@@ -106,7 +106,7 @@
     },
     {
       "name": "Telefon",
-      "categoryId": "3",
+      "categoryId": 3,
       "price": 4500,
       "imageUrl": "https://dummyimage.com/100x100/ff1717/ffff05.png",
       "description": "IPhone X ",
