@@ -7,7 +7,7 @@
       "description": "Nuhun ankara",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 1.528,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/111/300/200.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "description": "Halk ekmek",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 1,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/140/300/200.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "description": "1 koli 30 adet",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 15,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/200/300/200.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "description": "Zigon sehpa",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 250,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/150/300/200.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "description": "4 adet sandalye ile birlikte verilir",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 600,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/5/300/200.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "description": "i7, 32 GB Ram, 250 GB SSD ",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 5200,
-      "imageUrl": "https://i.picsum.photos/id/0/300/200.jpg"
+      "imageUrl": "https://picsum.photos/id/0/300/200.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "description": "Kablosuz Q Klavye",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 200,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/60/300/200.jpg"
     },
     {
       "id": 8,
@@ -70,13 +70,13 @@
       "description": "Kablosuz 5 tuşlu mouse",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "price": 45,
-      "imageUrl": "https://picsum.photos/200/300"
+      "imageUrl": "https://picsum.photos/id/61/300/200.jpg"
     },
     {
       "categoryId": 4,
       "name": "Gömlek",
       "price": 50,
-      "imageUrl": "https://picsum.photos/200/300",
+      "imageUrl": "https://picsum.photos/id/41/300/200.jpg",
       "description": "S Beden, Slim fit",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 9
@@ -85,7 +85,7 @@
       "categoryId": 4,
       "name": "Kazak",
       "price": 65,
-      "imageUrl": "https://picsum.photos/200/300",
+      "imageUrl": "https://picsum.photos/id/55/300/200.jpg",
       "description": "S Beden",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 10
@@ -94,7 +94,7 @@
       "categoryId": 6,
       "name": "Citroen",
       "price": 65000,
-      "imageUrl": "https://picsum.photos/200/300",
+      "imageUrl": "https://picsum.photos/id/21/300/200.jpg",
       "description": "C4 Otomaik Vites Dizel",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 11
@@ -103,7 +103,7 @@
       "categoryId": 5,
       "name": "Test",
       "price": 50,
-      "imageUrl": "https://picsum.photos/200/300",
+      "imageUrl": "https://picsum.photos/id/201/300/200.jpg",
       "description": "Deneme",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 12
@@ -112,7 +112,7 @@
       "name": "Test 2",
       "categoryId": 5,
       "price": 60,
-      "imageUrl": "https://picsum.photos/200/300",
+      "imageUrl": "https://picsum.photos/id/70/300/200.jpg",
       "description": "test açıklama",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 13
