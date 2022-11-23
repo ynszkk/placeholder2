@@ -121,8 +121,8 @@
       "name": "Telefon",
       "categoryId": 3,
       "price": 4500,
-      "imageUrl": "https://picsum.photos/200/300",
-      "description": "IPhone X ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896",
+      "description": "IPhone 14 Pro Max",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 14
     }
