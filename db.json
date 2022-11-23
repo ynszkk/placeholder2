@@ -109,10 +109,10 @@
       "id": 12
     },
     {
-      "name": "Test 2",
+      "name": "Tablet",
       "categoryId": 5,
       "price": 60,
-      "imageUrl": "https://picsum.photos/id/70/300/200.jpg",
+      "imageUrl": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/pdp/tablets/matepad-2022/img/new-img-0606/kv/huawei-matepad-kv@2x.webp",
       "description": "test açıklama",
       "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
       "id": 13
