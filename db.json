@@ -148,5 +148,16 @@
       "id": 6,
       "name": "Araç"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Salih",
+      "lastName": "Demiroğ",
+      "email": "salih@sldyazilim.com",
+      "password": "123456",
+      "token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJTTEQgWWF6xLFsxLFtIiwiaWF0IjoxNjY5MzEwNjY1LCJleHAiOjE3MDA4NDY2NjUsImF1ZCI6Ind3dy5zbGR5YXppbGltLmNvbSIsInN1YiI6InNhbGloQHNsZHlhemlsaW0uY29tIiwiRmlyc3ROYW1lIjoiU2FsaWgiLCJMYXN0TmFtZSI6IkRlbWlyb8SfIiwiRW1haWwiOiJzYWxpaEBzbGR5YXppbGltLmNvbSJ9.nFzC1Yt259FcMhhw1Dj_NNJLkHavTp_Mt6xn1BZoVj8"
+    },
+
   ]
 }
