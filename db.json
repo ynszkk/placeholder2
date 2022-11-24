@@ -100,7 +100,7 @@
       "id": 11
     },
     {
-      "categoryId": 5,
+      "categoryId": 3,
       "name": "Akıllı Saat",
       "price": 50,
       "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKU93_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO_GEO_TR?wid=1400&hei=1400&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1632171039000%2C1661754115822",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Tablet",
-      "categoryId": 5,
+      "categoryId": 3,
       "price": 60,
       "imageUrl": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/pdp/tablets/matepad-2022/img/new-img-0606/kv/huawei-matepad-kv@2x.webp",
       "description": "test açıklama",
@@ -143,10 +143,6 @@
     {
       "id": 4,
       "name": "Giyim"
-    },
-    {
-      "id": 5,
-      "name": "Başka"
     },
     {
       "id": 6,
